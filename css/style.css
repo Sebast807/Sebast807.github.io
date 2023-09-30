@@ -79,7 +79,7 @@ body {
     background-color: #00AF63;
 }
 
-@media screen and (max-width: 260px) {
+@media (max-width: 768px) {
 
     body {
         background-color: #1E2229;
